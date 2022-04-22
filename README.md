@@ -16,9 +16,6 @@
 3. Run `npm i` in project directory.
 4. Run `node app` in project directory.
 
-![GitHub](https://img.shields.io/github/license/verbaldye/jest-another-RPG)
-  
-
   ## Contributing
   This project is not accepting contributions.
 
